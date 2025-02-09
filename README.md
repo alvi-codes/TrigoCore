@@ -1,5 +1,4 @@
 # **TrigoMaster: FPGA-Based Trigonometric Function Accelerator**
----
 
 This repository contains the **three project reports** for *TrigoMaster*, a custom digital system designed to accelerate a complex mathematical function involving cosine evaluation using an FPGA. This project was developed as part of Imperial College London's Digital Systems Design module, focusing on optimizing performance, hardware resource utilization, and accuracy.
 
