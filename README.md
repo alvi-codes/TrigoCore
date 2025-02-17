@@ -29,7 +29,7 @@ The **Coursework_Requirements** document outlines the **project scope, aims, and
 
 ---
 
-### **How to Use This Repository**
+### **About This Repository**
 - The repository contains the three project reports in PDF format.
 - No code is included due to copyright concerns, but the reports provide detailed insights into the design, implementation, and optimization process.
 
